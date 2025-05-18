@@ -324,7 +324,12 @@ inline_stuff:
   bot_username_invalid: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Specified bot username is invalid. It must end with</b> <code>bot</code> <b>and contain at least 4 symbols</b>"
   bot_username_occupied: "<emoji document_id=5210952531676504517>🚫</emoji> <b>This username is already occupied</b>"
   bot_updated: "<emoji document_id=6318792204118656433>🎉</emoji> <b>Config successfully saved. Restart userbot to apply changes</b>"
-  this_is_hikka: "🪐 <b>Hi! This is Heroku — powerful modular Telegram userbot. You can install it to your account!</b>\n\n<b>🌍 <a href=\"https://github.com/coddrago/Heroku\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/heroku_talks\">Support chat</a></b>"
+  this_is_hikka: "<blockquote><b>Привет, герой AmokLeaf! 👋</b></blockquote>
+👮‍♂ <i><u>Важное сообщение из нашего магического архива!</u></i>
+✨ Мы открыли новый, улучшенный портал специально для связи с нашей командой поддержки:
+<blockquote>➡️ &lt;u&gt;@amokleafhelp&lt;/u&gt; ⬅️</blockquote>
+<blockquote><i>Смело переходи по ссылке и пиши туда! <u>Мы всегда готовы помочь тебе в твоих эпических приключениях!</u> </i>🛡🤝</blockquote>
+"
   _cmd_doc_ch_hikka_bot: "<username> - Change your Heroku inline bot username"
   _cls_doc: "Provides support for inline stuff"
 
